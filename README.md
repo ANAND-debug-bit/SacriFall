@@ -34,7 +34,7 @@ But be careful! Lose to many of Daven's Quilts and he'll collapse on the spot an
 <p align="center">
   Made with ❤️ by
   <a href="https://github.com/ANAND-debug-bit">Atharv Anand</a>,
-  <a href="https://github.com/CorrieIsWeird"></a> and
+  <a href="https://github.com/CorrieIsWeird">Ritwik Singh</a> and
   <a href="https://github.com/fluxnyx">Akshar Saxena</a><br/>
   Built for Haven Delhi Game Jam
 </p>
