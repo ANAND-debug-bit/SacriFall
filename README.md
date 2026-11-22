@@ -26,3 +26,15 @@ But be careful! Lose to many of Daven's Quilts and he'll collapse on the spot an
 <h2>Game View</h2>
 
 <img width="3420" height="1920" alt="image" src="https://github.com/user-attachments/assets/3416640b-5bab-4f11-bbe2-635abfd24c2c" />
+
+<h3 align="center">Credits</h3>
+
+<h3 align="center">Credits</h3>
+
+<p align="center">
+  Made with ❤️ by
+  <a href="https://github.com/ANAND-debug-bit">Atharv Anand</a>,
+  <a href="https://github.com/CorrieIsWeird"></a> and
+  <a href="https://github.com/fluxnyx"></a><br/>
+  Built for Haven Delhi Game Jam
+</p>
